@@ -1,0 +1,5 @@
+Compilando programas em C com o GCC:
+
+gcc prog.c -o prog
+
+./prog
