@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(int argc, char ** argv) {
+  int x;
   printf("Digite um número inteiro");
   scanf("%d\n", &x);
   if (x != 0) {
